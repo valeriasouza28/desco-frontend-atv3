@@ -2,4 +2,4 @@
 
 Para acessar  o site:
 
-[clique aqui](git@github.com:valeriasouza28/desco-frontend-atv3.git)
+[clique aqui](https://desco-frontend-atv3.vercel.app/)
